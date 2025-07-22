@@ -22,9 +22,9 @@ Welcome to my corner of GitHub! 🚀 I'm a Data Engineer with a passion for buil
 ---
 
 ## 📈 GitHub Stats
-[![Bhavana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavnana3679&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Bhavana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavana36799&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavnana3679&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavana3679&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
