@@ -44,7 +44,7 @@ Welcome to my corner of GitHub! 🚀 I'm a Data Engineer with a passion for buil
 ---
 
 ## 🎉 Fun Facts About Me:  
-- **🌍 Multilingual:** Fluent in English, Telugu, Hindi, and Urdu.  
+- **🌍 Multilingual:** Fluent in English, Telugu, Hindi.  
 - **🎮 Hobbies:** Badminton 🏸, traveling ✈️, and experimenting in the kitchen 🍳.  
 - **⚡ Extra Spark:** I thrive on solving complex data challenges, networking at tech conferences, and sharing insights with the data community!  
 - **📊 Data Philosophy:** "Data is the new oil, but insights are the refined fuel that powers innovation!"
